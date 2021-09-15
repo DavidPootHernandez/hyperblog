@@ -1,3 +1,4 @@
-Hola mi nombre es David Poot
+Hola mi nombre es David Poot y tengo 23 años
+Estudié en la Universidad Tecnológica Metropolitana de Mérida Yucatán
 y estoy aprendiendo a utilizar Git desde mi PC
 Espero poder aprenderlo XD XD
